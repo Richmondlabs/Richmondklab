@@ -101,6 +101,7 @@ I also teach networking and cybersecurity through Cisco NetAcad, helping others 
 
 ## Open To
 
+- Network Technician
 - Network Security roles
 - Cybersecurity opportunities
 - Security automation projects
