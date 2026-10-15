@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0E6FFF&center=true&vCenter=true&width=900&lines=Cybersecurity+%26+Network+Security;AI+Security+%7C+Python+Automation;Cisco+NetAcad+Instructor;Defending+Networks+with+Code" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Richmond Konan</h1>
+<h1 align="center">Richmondklab</h1>
 
 <p align="center">
   <a href="mailto:contact.richmonde@gmail.com">
