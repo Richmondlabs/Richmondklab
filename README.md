@@ -8,9 +8,6 @@
   <a href="mailto:contact.richmonde@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact.richmonde%40gmail.com-0E6FFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://github.com/richmondklab">
     <img src="https://img.shields.io/badge/GitHub-richmondklab-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
