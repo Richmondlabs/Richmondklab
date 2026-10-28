@@ -5,8 +5,7 @@
 <h1 align="center">Richmondklab</h1>
 
 <p align="center">
-  <a href="mailto:contact.richmonde@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact.richmonde%40gmail.com-0E6FFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
   </a>
   <a href="https://github.com/richmondklab">
     <img src="https://img.shields.io/badge/GitHub-richmondklab-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
